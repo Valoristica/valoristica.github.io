@@ -13,7 +13,7 @@ Atualmente disponibilizamos os seguintes cursos:
 - [Fatores Fundamentados](https://valoristica.github.io/Fatores/)
 - [Avaliações em Massa](https://valoristica.github.io/AvaliacaoMassa)
 - [Seleção de Modelos](https://valoristica.github.io/SelecaoModelos)
-- [Avaliação de Aluguéis](https://valoristica.github.io/AvaliacaoAlugueis)
+- [Avaliação de Aluguéis](https://valoristica.github.io/Alugueis/)
 
 ### Contacte-nos
 
