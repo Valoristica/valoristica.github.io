@@ -17,7 +17,7 @@ Atualmente disponibilizamos os seguintes cursos de forma *online*:
 
 Além de cursos presenciais *in company*:
 
-- [Curso de Avaliação de Imóveis por Inferência Estatística | Módulo básico](https://valoristica.github.io/ModuloBasico/)
+- [Curso de Avaliação de Imóveis por Inferência Estatística - Módulo básico](https://valoristica.github.io/ModuloBasico/)
 
 ### Contacte-nos
 
